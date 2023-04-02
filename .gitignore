@@ -1,0 +1,34 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Spring Boot generated files
+bin/
+build/
+lib/
+classes/
+logs/
+tmp/
+*.jar
+
+# Other generated files
+*.log
+*.out
+*.swp
+*.swo
+
+# Application properties
+application.yml
+application.properties
+
+# Test report files
+test-output/
+test-report.xml
+
+# OS-specific files
+Thumbs.db
+.DS_Store
